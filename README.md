@@ -10,9 +10,10 @@ Zipkin – distributed tracing system with request visualization.
 
 #To run the project:
 
-start the config server
-start the discovery server
-start all the other services in any order
+start the config server,
+start the discovery server,
+start all the other services in any order.
+
 
 REST API Endpoints
 All inputs and outputs use JSON format.
